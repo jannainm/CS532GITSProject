@@ -8,7 +8,7 @@
     </view>
     <view id="resource-table">
         <field id="0" name="Name" width="50" order="0"/>
-        <field id="1" name="Default role" width="49" order="1"/>
+        <field id="1" name="Default role" width="50" order="1"/>
     </view>
     <!-- -->
     <calendars>
