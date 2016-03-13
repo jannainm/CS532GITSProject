@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>GITS Database</title>
+</head>
+<body>
+<center>
+    <h1>GITS Database</h1>
+    <p>{{urls|length}} links</p>
+</center>
+<ol align="left">
+{% set counter = 0 -%}
+{% for url in urls -%}
+<li><a href="{{ url }}">{{ url }}</a></li>
+{% set counter = counter + 1 -%}
+{% endfor -%}
+</ol>
+</body>
+</html>
