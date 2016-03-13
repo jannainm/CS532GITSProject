@@ -1,3 +1,11 @@
+'''
+@author: Michael Jannain
+'''
+
+'''
+GET CODE FROM WINDOWS PC
+'''
+
 import Tkinter
 
 window = Tkinter.Tk()
