@@ -1,6 +1,6 @@
 # CS532GITSProject
 #
-# Members: Michael J., Julian N., Jose C., Jimmy D.
+# Members: Michael J., Julian N., Jose G., Jimmy D.
 # Class: CS532
 # Project: GITS Database
 # Professor: Leonard
